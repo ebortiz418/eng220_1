@@ -2,4 +2,4 @@
 
 hello
 
-the project topic is 
+// Our project topic is violence/security // specifically looking into burglaries 
